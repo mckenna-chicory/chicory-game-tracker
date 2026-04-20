@@ -1,0 +1,9 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "env": {
+    "REACT_APP_SHEETDB_API": "@sheetdb_api",
+    "REACT_APP_ADMIN_PIN": "@admin_pin",
+    "REACT_APP_COMPANY_NAME": "Chicory"
+  }
+}
